@@ -11656,7 +11656,7 @@
         { "id": "m240", "fg": 3210 },
         { "id": "m27_assault_rifle_var_h&k416a5", "fg": 3212 },
         { "id": "m27_assault_rifle_var_m27iar", "fg": 3213 },
-        { "id": "m27_assault_rifle_var_m38dmr", "fg": 3214 },
+        { "id": "modular_m27_assault_rifle_var_modular_m38dmr", "fg": 3214 },
         { "id": "m27_assault_rifle_var_scar_l", "fg": 3215 },
         { "id": "m2browning", "fg": 3216 },
         { "id": "m2browning_sawn", "fg": 3217 },
