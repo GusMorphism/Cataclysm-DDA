@@ -15805,7 +15805,7 @@
         { "id": "overlay_wielded_m240", "fg": 9385 },
         { "id": "overlay_wielded_m27_assault_rifle_var_h&k416a5", "fg": 9387 },
         { "id": "overlay_wielded_m27_assault_rifle_var_m27iar", "fg": 9388 },
-        { "id": "overlay_wielded_m27_assault_rifle_var_m38dmr", "fg": 9389 },
+        { "id": "overlay_wielded_modular_m27_assault_rifle_var_modular_m38dmr", "fg": 9389 },
         { "id": "overlay_wielded_m27_assault_rifle_var_scar_l", "fg": 9390 },
         { "id": "overlay_wielded_m2browning_sawn", "fg": 9391 },
         { "id": "overlay_wielded_m320", "fg": 9392 },
