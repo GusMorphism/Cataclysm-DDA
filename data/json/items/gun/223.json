@@ -91,7 +91,7 @@
   {
     "//": "Groups all 'H&K416' related rifles together. Used M27 due to it being the most popular of the three in the US.",
     "id": "modular_m27_assault_rifle",
-    "looks_like": "modular_ar15",
+    "looks_like": "m27_assault_rifle_var_h&k416a5",
     "type": "GUN",
     "copy-from": "rifle_auto",
     "name": { "str": "M27 assault rifle" },
@@ -117,6 +117,7 @@
       },
       {
         "id": "modular_m38dmr",
+        "looks_like": "m27_assault_rifle_var_m38dmr",
         "name": { "str": "M38 DMR rifle" },
         "description": "The M38 Designated Marksman Rifle is an M27 IAR, itself derived from a H&K416, selected for accuracy, and outfitted with a variable power scope and a QDSS suppressor."
       }
@@ -146,6 +147,7 @@
   },
   {
     "id": "scar_l",
+    "looks_like": "m27_assault_rifle_var_scar_l",
     "copy-from": "rifle_semi",
     "type": "GUN",
     "name": { "str": "FN SCAR-L" },
@@ -317,7 +319,7 @@
   },
   {
     "id": "modular_m4_carbine",
-    "looks_like": "modular_ar15",
+    "looks_like": "m4_carbine_var_m4_cqbr",
     "type": "GUN",
     "copy-from": "rifle_auto",
     "name": { "str": "M4 carbine" },
@@ -362,7 +364,7 @@
   },
   {
     "id": "modular_m16a4",
-    "looks_like": "modular_ar15",
+    "looks_like": "m27_assault_rifle_var_m27iar",
     "type": "GUN",
     "copy-from": "modular_m4_carbine",
     "name": { "str": "M16 burst rifle" },
@@ -397,6 +399,7 @@
   {
     "//": "Figured having 'm16' in the name would make it more understandable, seeing as I named 2 of the .223 rifle groups/names after it. ACR is grouped with it due to similar length.",
     "id": "modular_m16_auto_rifle",
+    "looks_like": "m16_auto_rifle",
     "copy-from": "modular_m16a4",
     "type": "GUN",
     "name": { "str": "M16 auto rifle" },
@@ -410,6 +413,7 @@
       },
       {
         "id": "modular_acr",
+        "looks_like": "m16_auto_rifle_var_acr",
         "name": { "str": "Remington ACR carbine" },
         "description": "This carbine was developed for military use in the early 21st century.  It is damaging and accurate, though its rate of fire is a bit slower than competing carbines."
       }
@@ -466,7 +470,7 @@
     "//": "Changed from SG 553, which itself was originally the Sig 550, to the civilian legal copy",
     "id": "sig_assault_rifle",
     "copy-from": "rifle_semi",
-    "looks_like": "modular_ar15",
+    "looks_like": "sig552",
     "type": "GUN",
     "name": { "str": "SIG civilian rifle" },
     "description": "A civilian variant of an automatic Swiss rifle for military service.  Accepts STANAG magazines.",
@@ -570,7 +574,7 @@
   {
     "id": "ak556",
     "copy-from": "rifle_semi",
-    "looks_like": "modular_ar15",
+    "looks_like": "an94",
     "type": "GUN",
     "name": { "str": "ZPAP AK-style rifle" },
     "description": "A civilian AK pattern rifle, chambered in 5.56x45 NATO.",
@@ -615,7 +619,7 @@
   {
     "id": "minidraco556",
     "copy-from": "pistol_base",
-    "looks_like": "modular_ar15",
+    "looks_like": "hi_power_9mm",
     "type": "GUN",
     "name": { "str": "ZPAP AK-style pistol" },
     "description": "A civilian AK pattern rifle, chambered in 5.56x45 NATO.  This one is shorter and without a stock.",
@@ -659,7 +663,7 @@
   {
     "id": "mdrx",
     "copy-from": "rifle_semi",
-    "looks_like": "modular_ar15",
+    "looks_like": "fs2000",
     "type": "GUN",
     "name": { "str": "Desert Tech bullpup carbine" },
     "description": "Produced by the Desert Tech gun company, this is a highly modular, semi-automatic rifle of remarkably modest dimensions.  The weapon is notable for the simplicity of converting it to fire a wide number of different cartridges, with retool kits for .223 Remington, .308 Winchester, and .300 AAC Blackout being available.",
@@ -732,7 +736,7 @@
   {
     "id": "bren2_556",
     "copy-from": "rifle_semi",
-    "looks_like": "modular_ar15",
+    "looks_like": "ar10",
     "type": "GUN",
     "name": { "str": "Bren 5.56x45mm carbine" },
     "description": "A semi-automatic clone of the Czech Republic's standard infantry carbine, sold for civilian sport shooting and recreational use, this modular rifle makes use of the 7.62x39mm Soviet cartridge and uses proprietary magazines.",
@@ -801,7 +805,7 @@
   {
     "id": "cz600",
     "copy-from": "rifle_manual",
-    "looks_like": "modular_ar15",
+    "looks_like": "ruger_1022",
     "type": "GUN",
     "name": { "str": "bolt-action trail carbine" },
     "description": "Compact, svelte, and lightweight, this Leen bolt-action rifle packs the same features of larger sporting weapons into a backpack-sized package.  Possessing an adjustable buttstock, a detachable magazine-based system, and a quick-swap barrel that can be exchanged to accommodate the firing of .223 Remington or 7.62x39mm Soviet ammunition, the weapon is a commendable backpacker or prepper rifle.",
@@ -844,7 +848,7 @@
   {
     "id": "rdb_223",
     "copy-from": "rifle_semi",
-    "looks_like": "modular_ar15",
+    "looks_like": "famas",
     "type": "GUN",
     "name": { "str": "5.56x45mm bullpup rifle" },
     "description": "This is a semi-automatic bullpup rifle with a lightened body due to the use of polymers and aluminum, using standard magazines of the AR-15 platform and a 5.56x45mm cartridge.",
