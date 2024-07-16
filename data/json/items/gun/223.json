@@ -412,7 +412,6 @@
       },
       {
         "id": "modular_acr",
-        "looks_like": "m16_auto_rifle_var_acr",
         "name": { "str": "Remington ACR carbine" },
         "description": "This carbine was developed for military use in the early 21st century.  It is damaging and accurate, though its rate of fire is a bit slower than competing carbines."
       }
