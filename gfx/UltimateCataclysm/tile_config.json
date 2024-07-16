@@ -3410,7 +3410,7 @@
         { "id": "art_crescent", "fg": 3130 },
         { "id": "altered_teapot", "fg": 3127 },
         { "id": "architect_cube", "fg": 3128 },
-        { "id": [ "m16_auto_rifle_var_acr", "acr_300blk" ], "fg": 3202 },
+        { "id": [ "modular_m16_auto_rifle_var_modular_acr", "acr_300blk" ], "fg": 3202 },
         { "id": [ "ak47", "aksemi" ], "fg": 3153 },
         { "id": [ "carbine_flintlock", "carbine_flintlock_double" ], "fg": 3166 },
         { "id": [ "m16a4", "m16_auto_rifle_var_m16a3" ], "fg": 3203 },
